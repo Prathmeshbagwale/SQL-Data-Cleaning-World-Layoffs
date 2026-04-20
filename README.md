@@ -9,6 +9,7 @@ formatting, null values, and incorrect data types — all resolved using structu
 
 ## 🗂️ Dataset
 - **Source:** [Kaggle — Layoffs 2022](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
+- **Raw dataset included:** `DB_used_layoffs_.csv`
 - **Records:** ~2,360 rows
 - **Columns:** Company, Location, Industry, Total Laid Off, Percentage Laid Off, 
 Date, Stage, Country, Funds Raised (Millions)
